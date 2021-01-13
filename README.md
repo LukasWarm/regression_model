@@ -8,7 +8,7 @@ This project is a part of the Ironhack Data Analytics bootcamp and can be found 
 
 ## Project Intro/Objective
 
-The goal of this project is to build a a machine learning model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated. The dataset consists of 22,000 properties sold between \*May 2014\* to \*May 2015\* in Washington.
+The goal of this project is to build a a machine learning model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated. The dataset consists of 22,000 properties sold between May 2014 to May 2015 in Washington.
 
 ## Methods Used
 
@@ -53,4 +53,4 @@ For this project I needed to determine which factors are responsible for higher 
 - Regressions_Random_Forest_Model.ipynb - Code, visualisations & machine learning models (*Jupyter notebook*)
 
 - Tableau_graphs_for_regression_project - Visualisations & dashboard (Tableau Workbook File *twb* & Tableau Packaged Workbook *twbx*)
-  =======
+
